@@ -2,6 +2,8 @@
 
 This folder contains a separate MATLAB modelling package and technical report for the ENME811 compressor assignment brief supplied on 9 October 2026.
 
+**Client design case:** R134a refrigeration, 50 kW cooling capacity at evaporating temperature −10 °C with 5 K suction superheat (design condensing temperature 45 °C adopted and documented). The fitted model predicts 50.02 kW at the design point.
+
 ## Contents
 
 - `matlab/` — complete runnable MATLAB project, including input CSV, README and generated-output folders
